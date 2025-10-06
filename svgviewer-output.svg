@@ -1,0 +1,129 @@
+<svg style="left: 0px; top: 0px; width: 100%; height: 100%; display: block; min-width: 926px; min-height: 625px; background-color: #f8f9fa;" font-family="Montserrat, sans-serif">
+    <g transformOrigin="0 0" transform="scale(0.45,0.45)translate(161,1)">
+        
+        <!-- Title -->
+        <g>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1720px; height: 1px; padding-top: 40px; margin-left: -138px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: center;">
+                        <div style="display: inline-block; font-size: 32px; font-family: Montserrat, sans-serif; font-weight: bold; color: #333333; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;">Waterfall SDLC Plan for StockSync Inventory System</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        
+        <!-- Block 1: Planning -->
+        <g>
+            <rect x="-94.23" y="167.78" width="258.71" height="131.54" fill="#6f42c1" pointer-events="all" rx="15"></rect>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 257px; height: 1px; padding-top: 175px; margin-left: -92px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left;">
+                        <div style="display: inline-block; font-size: 12px; font-family: Montserrat, sans-serif; color: white; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;"><b>1. Planning</b><br/>- Define Project Scope &amp; Goals for StockSync<br/>- Identify Stakeholders (Warehouse Manager, Clerks)<br/>- Create Detailed Project Plan &amp; Timeline<br/>- Allocate Budget and Resources</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+
+        <!-- Block 2: Analysis -->
+        <g>
+            <rect x="254.74" y="260.14" width="258.71" height="129.86" fill="#007bff" pointer-events="all" rx="15"></rect>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 257px; height: 1px; padding-top: 267px; margin-left: 257px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left;">
+                        <div style="display: inline-block; font-size: 12px; font-family: Montserrat, sans-serif; color: white; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;"><b>2. Analysis</b><br/>- Conduct interviews to gather ALL system requirements<br/>- Document requirements for all features (User Roles, Product Management, Stock Tracking, etc.)<br/>- Produce final 'Software Requirements Specification' document</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        
+        <!-- Block 3 (Contains "5. Testing" text from your original) -->
+        <g>
+            <rect x="605.61" y="370.97" width="228.07" height="138.54" fill="#007bff" pointer-events="all" rx="15"></rect>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 226px; height: 1px; padding-top: 378px; margin-left: 608px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left;">
+                        <div style="display: inline-block; font-size: 12px; font-family: Montserrat, sans-serif; color: white; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;"><b>5. Testing</b><br/>- Design the complete System Architecture<br/>- Database Schema (ERD)<br/>- Design UI/UX Mockups for every screen<br/>- Conduct Performance &amp; Security Testing<br/>- Conduct User Acceptance Testing (UAT) with stakeholders</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        
+        <!-- Block 4 (Contains "4. Development" text from your original) -->
+        <g>
+            <rect x="900.86" y="472.57" width="234.07" height="112.41" fill="#007bff" pointer-events="all" rx="15"></rect>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 226px; height: 1px; padding-top: 480px; margin-left: 906px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left;">
+                        <div style="display: inline-block; font-size: 12px; font-family: Montserrat, sans-serif; color: white; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;"><b>4. Development</b><br/>- Write all backend and frontend code based on the Design Spec<br/>- Implement the complete database as a whole<br/>- Integrate all parts of application as a whole</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+
+        <!-- Block 5 (Contains "6. Implementation" text from your original) -->
+        <g>
+            <rect x="1187.33" y="537.22" width="238.07" height="112.78" fill="#007bff" pointer-events="all" rx="15"></rect>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 226px; height: 1px; padding-top: 544px; margin-left: 1195px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left;">
+                        <div style="display: inline-block; font-size: 12px; font-family: Montserrat, sans-serif; color: white; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;"><b>6. Implementation</b><br/>- Prepare production servers and deploy the final application<br/>- Migrate existing inventory data into the new system<br/>- Conduct training sessions for all users</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+
+        <!-- Block 6 (Contains "7. Maintenance" text from your original) -->
+        <g>
+            <rect x="1491.58" y="685" width="228.07" height="115" fill="#6f42c1" pointer-events="all" rx="15"></rect>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%">
+                <div style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 226px; height: 1px; padding-top: 692px; margin-left: 1494px;">
+                    <div style="box-sizing: border-box; font-size: 0; text-align: left;">
+                        <div style="display: inline-block; font-size: 12px; font-family: Montserrat, sans-serif; color: white; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal;"><b>7. Maintenance</b><br/>- Begin ongoing support period<br/>- Fix any bugs discovered post-launch<br/>- Handle user feedback and formal change requests<br/>- Perform regular system updates</div>
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+
+        <!-- All Arrows (Styled) -->
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 164.48 203.29 Q 232.29 186.25 313.23 254.89" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" stroke-dasharray="5,5"></path>
+            <path d="M 318.56 259.42 L 310.96 257.56 L 315.49 252.22 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 254.74 352.34 Q 189 481.81 103.37 306.61" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="5,5" pointer-events="stroke"></path>
+            <path d="M 100.3 300.32 L 106.51 305.07 L 100.23 308.15 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 513.45 297.8 Q 569.96 204.72 658.68 363.88" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" stroke-dasharray="5,5"></path>
+            <path d="M 662.09 370 L 655.62 365.59 L 661.74 362.18 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 605.61 469.34 Q 526.67 518.75 452.97 396.95" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="5,5" pointer-events="stroke"></path>
+            <path d="M 449.35 390.96 L 455.97 395.13 L 449.98 398.76 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 833.68 411.15 Q 890.3 287.85 1013.28 465.89" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" stroke-dasharray="5,5"></path>
+            <path d="M 1017.26 471.65 L 1010.4 467.88 L 1016.16 463.9 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 903.86 568.05 Q 829.7 592.64 781.03 516.36" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="5,5" pointer-events="stroke"></path>
+            <path d="M 777.27 510.46 L 783.98 514.48 L 778.08 518.24 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 1131.93 499.5 Q 1167.36 389.44 1246.37 530.14" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" stroke-dasharray="5,5"></path>
+            <path d="M 1249.8 536.25 L 1243.32 531.86 L 1249.42 528.43 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 1193.33 617.39 Q 1131.86 712.71 1078.45 602.28" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="5,5" pointer-events="stroke"></path>
+            <path d="M 1075.4 595.98 L 1081.6 600.76 L 1075.3 603.81 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 1421.4 559.83 Q 1491.17 454.1 1546.64 677.12" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke" stroke-dasharray="5,5"></path>
+            <path d="M 1548.33 683.92 L 1543.24 677.97 L 1550.03 676.28 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+        <g style="visibility: visible;" transform="translate(0.5,0.5)">
+            <path d="M 1491.58 764.8 Q 1401.13 790.29 1373.45 647.56" fill="none" stroke="#aaaaaa" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="5,5" pointer-events="stroke"></path>
+            <path d="M 1372.12 640.69 L 1376.89 646.89 L 1370.02 648.22 Z" fill="#aaaaaa" stroke="none" pointer-events="all"></path>
+        </g>
+    </g>
+</svg>
